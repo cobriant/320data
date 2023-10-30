@@ -1,0 +1,97 @@
+name,outcome,day_left,age,profession,region_origin_UK,gender,first_arrive,day_joined,n_dates,n_challenges_won,series
+Cara De La Hoyde,winner,45,26,circus performer,South,female,YES,1,NA,NA,2016
+Nathan Massey,winner,45,25,carpenter,South,male,YES,1,NA,NA,2016
+Alex Bowen,runner up,45,24,model,Midlands,male,NO,18,NA,NA,2016
+Olivia Buckland,runner up,45,22,sales executive,South,female,YES,1,NA,NA,2016
+Kady McDermott,third place,45,20,makeup artist,South,female,NO,3,NA,NA,2016
+Scott Thomas,third place,45,28,nightclub promoter,North,male,YES,1,NA,NA,2016
+Adam Maxted,dumped,45,24,wrestler,Ireland,male,NO,11,NA,NA,2016
+Katie Salmon,dumped,45,20,glamour model,North,female,NO,34,NA,NA,2016
+Emma Jane Woodham,dumped,41,19,project manager,South,female,NO,27,NA,NA,2016
+Terry Walsh,dumped,41,28,carpenter,South,male,NO,3,NA,NA,2016
+Adam Jukes,dumped,41,23,recruitment consultant,North,male,NO,34,NA,NA,2016
+Lauren Whiteside,dumped,41,25,events manager,North,female,NO,37,NA,NA,2016
+Tina Stinnes,dumped,40,21,student,South,female,NO,20,NA,NA,2016
+Sophie Gradon,walked,39,30,marketing manager,North,female,YES,1,NA,NA,2016
+Troy Frith,dumped,37,23,salesman,South,male,NO,30,NA,NA,2016
+Tom Powell,dumped,33,24,barman,Wales,male,YES,1,NA,NA,2016
+Liana Isadora Van Riel,dumped,33,20,stripper,South,female,NO,20,NA,NA,2016
+Oliver Maxwell Fernandez,dumped,31,25,model,South,male,NO,30,NA,NA,2016
+Malin Andersson,dumped,25,23,makeup artist,Midlands,female,YES,1,NA,NA,2016
+Zara Holland,walked,22,20,miss great britain,North,female,YES,1,NA,NA,2016
+James Khan,dumped,20,20,newsagent,South,male,NO,18,NA,NA,2016
+Rykard Jenkins,walked,15,25,personal trainer,South,male,YES,1,NA,NA,2016
+Daniel Lukakis,dumped,15,23,osteopath,South,male,YES,1,NA,NA,2016
+Rachel Fenton,dumped,15,23,nurse,South,female,NO,7,NA,NA,2016
+Malia Arkian,removed,7,26,singer,North,female,NO,7,NA,NA,2016
+Javi Shepard,dumped,6,27,surveryor,North,male,YES,1,NA,NA,2016
+Amber Davis,winner,52,20,dancer,Wales,female,YES,1,5,0,2017
+Kem Cetinay,winner,52,21,hairdresser,South,male,YES,1,2,1,2017
+Camilla Thurlow,runner up,52,27,explosive ordance disposal,Scotland,female,YES,1,7,1,2017
+Jamie Jewitt,runner up,52,27,model,South,male,NO,32,4,2,2017
+Chris Hughes,third place,52,24,golf clothing ambassador,Midlands,male,NO,4,7,2,2017
+Olivia Attwood,third place,52,26,motorsport grid girl,South,female,YES,1,5,0,2017
+Gabby Allen,dumped,52,25,fitness instructor,North,female,NO,7,3,3,2017
+Marcel Somerville,dumped,52,31,music professional,South,male,YES,1,3,2,2017
+Alex Beattie,dumped,50,22,personal trainer,North,male,NO,26,3,1,2017
+Montana Brown,dumped,50,21,student,South,female,YES,1,6,3,2017
+Georgia Harrison,dumped,46,22,personal assistant,South,female,NO,34,0,0,2017
+Sam Gowland,re-dumped,46,21,oil rig worker,North,male,YES,1,1,0,2017
+Mike Thalassitis,re-dumped,44,24,semi-pro footballer,South,male,NO,12,2,1,2017
+Tyla Carr,dumped,44,23,model,South,female,NO,19,3,1,2017
+Theo Campbell,dumped,41,25,personal trainer,South,male,NO,32,1,0,2017
+Jonny Mitchell,dumped,38,26,business director,South,male,NO,4,3,0,2017
+Craig Lawson,dumped,31,27,personal trainer,South,male,NO,26,0,0,2017
+Nathan Joseph,dumped,31,25,salesman,South,male,NO,26,0,0,2017
+Danielle Sellers,dumped,31,22,model,South,female,NO,26,0,0,2017
+Chyna Ellis,dumped,31,22,fashion stylist,South,female,NO,26,0,0,2017
+Amelia Peters,dumped,28,18,teaching assistant,South,female,NO,26,0,0,2017
+Dom Lever,dumped,28,26,careers advisor,North,male,YES,1,4,0,2017
+Ellisha-Jade White,dumped,28,22,entrepreneur,South,female,NO,26,0,0,2017
+Marino Katsouris,dumped,28,22,personal trainer,South,male,NO,26,0,0,2017
+Rob Lipsett,dumped,28,25,entrepreneur,Ireland,male,NO,26,0,0,2017
+Shannen McGrath,dumped,28,23,dental nurse,Ireland,female,NO,26,0,0,2017
+Steve Ball,dumped,28,25,plumber,South,male,NO,26,0,0,2017
+Simon Searles,dumped,25,28,barber,North,male,NO,19,1,1,2017
+Chloe Crowhurst,dumped,23,22,personal assistant,South,female,YES,1,1,1,2017
+Jessica Shears,dumped,17,23,model,South,female,YES,1,3,0,2017
+Tyne-Lexy Clarson,dumped,14,20,student,Midlands,female,NO,7,2,2,2017
+Harley Judge,dumped,6,22,groundsworker,South,male,YES,1,0,0,2017
+Adam Collard,dumped,33,22,personal trainer,North,male,YES,1,2,1,2018
+Hayley Hughes,dumped,13,21,model,North,female,YES,1,2,0,2018
+Jack Fincham,winner,59,26,sales manager,South,male,YES,1,2,3,2018
+Kendall Rae-Knight,dumped,6,26,retail manager,North,female,YES,1,1,1,2018
+Niall Aslam,walked,9,23,construction worker,Midlands,male,YES,1,2,1,2018
+Samira Mighty,walked,40,22,west end perfromer,South,female,YES,1,3,0,2018
+Alex George,dumped,57,27,doctor,Wales,male,YES,1,7,2,2018
+Dani Dyer,winner,59,21,barmaid,South,female,YES,1,2,1,2018
+Wes Nelson,dumped,59,20,electrical engineer,Midlands,male,YES,1,4,3,2018
+Laura Anderson,runner up,59,29,cabin crew,Scotland,female,YES,1,4,1,2018
+Eyal Booker,dumped,25,22,model,South,male,YES,1,3,1,2018
+Megan Barton Hanson,dumped,59,24,glamour model,South,female,NO,8,4,0,2018
+Josh Denzel,third place,59,26,social media host,South,male,NO,8,5,1,2018
+Charlie Frederick,dumped,13,23,model,South,male,NO,8,1,0,2018
+Rosie Williams,dumped,20,25,solicitor,Wales,female,NO,4,2,0,2018
+Zara Mcdermott,dumped,25,21,government advisor,South,female,NO,15,1,0,2018
+Ellie Brown,dumped,43,20,business manager,North,female,NO,15,2,1,2018
+Sam Bird,dumped,47,25,gym owner,South,male,NO,19,2,0,2018
+Georgia Steel,dumped,47,20,student,North,female,NO,4,5,0,2018
+Josh Mair,dumped,50,21,dj,Midlands,male,NO,43,0,0,2018
+Paul Knops,runner up,59,31,carpenter,South,male,NO,43,1,0,2018
+Laura Crane,dumped,53,23,surfer,South,female,NO,43,1,2,2018
+Stephanie Lamb,dumped,50,23,account manager,South,female,NO,43,0,0,2018
+Keiran Nicholls,dumped,40,26,personal trainer,South,male,NO,37,2,1,2018
+Idris Virgo,dumped,40,25,boxer,Midlands,male,NO,37,1,0,2018
+Kazimir Crossley,third place,59,23,make up artist,South,female,NO,26,2,0,2018
+Charlie Brake,dumped,43,23,socialite,South,male,NO,26,0,1,2018
+Jack Fowler,dumped,53,22,footballer,South,male,NO,26,2,2,2018
+Grace Wardle,dumped,37,25,hairdresser,South,female,NO,26,0,0,2018
+Frankie Foster,dumped,37,22,student,Midlands,male,NO,26,0,0,2018
+Alex Miller,dumped,33,28,structural glazier,South,male,NO,26,0,0,2018
+Darylle Sargeant,dumped,33,24,beautician,South,female,NO,26,1,0,2018
+Ellie Jones,dumped,33,22,customer service,South,female,NO,26,0,0,2018
+Savanna Darnell,dumped,30,22,singer/dancer,North,female,NO,26,0,0,2018
+Charlie Williams,dumped,30,24,tanning shop,South,female,NO,26,0,0,2018
+Dean Overson,dumped,30,25,car sales,North,male,NO,26,0,0,2018
+Jordan Adefeyisan,dumped,30,23,model,North,male,NO,26,0,0,2018
+Alexandra Cane,dumped,57,27,model,South,female,NO,39,3,0,2018
