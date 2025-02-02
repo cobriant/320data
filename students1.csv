@@ -1,0 +1,375 @@
+sex,study_time,failures,romantic,alcohol,absences,final_grade,train
+female,less than 2H,0,no,moderately low,12,69.42734127658653,0
+female,less than 2H,0,yes,moderately low,0,49.10797297168575,0
+female,5 - 10H,0,no,very low,6,76.70543444075268,0
+female,more than 10H,0,yes,medium,4,83.37587708956666,1
+male,2 - 5H,0,no,moderately high,2,80.09552330167543,0
+female,2 - 5H,0,no,medium,4,62.39152229787556,1
+female,2 - 5H,0,no,moderately high,54,73.22275612496917,1
+female,2 - 5H,0,no,moderately low,0,50.798015464992346,1
+male,2 - 5H,0,yes,moderately low,2,78.96778179263765,0
+male,less than 2H,1,no,moderately low,2,67.2842475457852,0
+female,2 - 5H,0,yes,moderately low,10,74.69838553953193,1
+male,less than 2H,0,yes,moderately high,30,65.85834234993861,1
+female,5 - 10H,0,yes,very low,0,50.44656281229399,1
+female,2 - 5H,3,yes,very low,0,49.78466173173204,0
+male,less than 2H,2,no,moderately low,0,48.79231474028991,1
+male,less than 2H,1,no,very high,4,65.27425395824713,0
+female,2 - 5H,1,yes,moderately low,22,71.993524515443,1
+female,2 - 5H,0,yes,medium,0,49.06742958026877,0
+male,less than 2H,1,no,very low,16,77.71686976464629,0
+male,less than 2H,0,yes,medium,3,77.22459625484136,0
+female,less than 2H,2,no,medium,14,66.53604057359748,0
+male,2 - 5H,0,no,medium,2,81.1953944165422,1
+male,2 - 5H,0,no,moderately high,4,71.0818828421762,0
+female,more than 10H,0,no,very low,10,73.10082372168512,0
+male,2 - 5H,0,no,very low,4,87.62998129121364,0
+male,2 - 5H,0,yes,moderately high,2,71.98588209837587,0
+female,more than 10H,0,no,very low,0,50.20515622150285,1
+male,less than 2H,0,no,moderately low,2,87.53723125015468,1
+female,2 - 5H,0,yes,very low,75,69.2203208597664,0
+female,2 - 5H,0,yes,very low,20,81.32757687686326,1
+female,2 - 5H,0,yes,very low,0,89.65078871886435,0
+male,2 - 5H,3,yes,very high,0,65.34917475219,1
+female,2 - 5H,0,yes,very low,0,73.40879068819075,0
+male,2 - 5H,0,no,moderately low,2,74.06813313180061,1
+male,less than 2H,0,no,moderately high,2,70.35130537760779,1
+male,less than 2H,0,no,moderately low,4,90.37935249499766,0
+female,2 - 5H,1,no,very low,2,65.67908993296426,0
+male,2 - 5H,0,yes,very low,2,88.90673564123263,0
+female,2 - 5H,2,yes,very low,4,67.2866564292645,0
+male,more than 10H,0,no,very low,8,69.61662132654249,1
+female,2 - 5H,1,yes,moderately low,25,74.10825917464295,0
+male,less than 2H,0,no,moderately high,8,69.95513285896669,1
+female,2 - 5H,0,yes,moderately low,2,74.01033388351142,1
+male,5 - 10H,0,no,medium,6,85.50571619926008,0
+male,2 - 5H,0,no,very low,18,60.64251728910737,0
+female,2 - 5H,0,no,moderately low,2,87.730256765536,0
+female,2 - 5H,0,yes,moderately low,14,84.82117722634094,0
+female,2 - 5H,0,no,very low,2,76.62127113370454,1
+female,2 - 5H,0,no,medium,4,68.77301481244945,0
+female,5 - 10H,2,yes,very low,4,88.17038959124507,0
+male,more than 10H,0,no,moderately low,6,88.74677905565686,1
+female,2 - 5H,0,yes,very low,0,49.76415988068968,0
+female,2 - 5H,0,no,very low,4,67.9192718192348,0
+male,2 - 5H,0,no,moderately high,4,61.728860355002446,0
+female,5 - 10H,0,no,medium,2,69.91681872787834,0
+male,less than 2H,0,no,moderately high,3,92.58914762243955,1
+female,5 - 10H,1,yes,moderately high,28,66.27035074826597,1
+male,2 - 5H,0,no,very high,18,64.61101894130971,0
+male,2 - 5H,0,yes,very high,4,80.82704525362955,1
+female,5 - 10H,0,no,very low,2,73.04964478076539,0
+female,5 - 10H,0,no,medium,4,83.41663549941916,0
+male,less than 2H,0,no,very low,0,87.70340794266659,1
+male,2 - 5H,0,no,medium,0,69.59673591920235,1
+female,less than 2H,0,no,medium,4,94.2429156441597,0
+male,2 - 5H,0,no,medium,2,77.6393912102023,0
+male,2 - 5H,0,no,moderately low,8,85.28553488062612,1
+male,less than 2H,0,no,very low,6,96.3329182516485,0
+female,less than 2H,0,no,moderately low,18,63.40404044624216,0
+female,2 - 5H,0,no,moderately high,2,72.7633429878871,0
+male,5 - 10H,0,yes,medium,10,70.32681765823614,0
+male,less than 2H,0,no,very low,0,80.63538800702842,1
+female,more than 10H,0,no,very low,6,72.10800153120657,0
+male,less than 2H,3,yes,very low,0,49.525422295264576,0
+female,2 - 5H,0,no,moderately low,0,71.43267522692521,0
+female,2 - 5H,0,no,moderately low,0,69.24497947969405,0
+male,less than 2H,1,no,medium,0,51.09114838309487,1
+male,less than 2H,0,no,medium,4,70.3075915232798,1
+male,2 - 5H,1,no,very low,12,71.25722047870214,0
+female,2 - 5H,0,no,medium,2,87.6425868680638,1
+female,2 - 5H,1,no,very low,6,79.31039147046704,1
+female,5 - 10H,0,no,medium,0,88.59014184266826,1
+female,5 - 10H,0,yes,medium,7,84.3096228024875,1
+female,2 - 5H,1,no,very low,0,50.505182232386474,0
+male,less than 2H,1,yes,very low,38,66.29169060901674,1
+male,2 - 5H,0,yes,medium,10,69.25961605463363,1
+male,2 - 5H,2,yes,moderately high,6,63.464231739118375,1
+male,less than 2H,0,no,medium,4,73.4284738233604,0
+male,less than 2H,2,no,moderately low,8,68.21473342624076,0
+male,less than 2H,0,no,medium,2,83.4398074709283,1
+female,less than 2H,0,yes,medium,12,77.30191506267505,0
+female,2 - 5H,0,no,moderately low,4,80.18727822665488,1
+male,less than 2H,0,no,very high,8,70.20668463279986,1
+male,2 - 5H,0,yes,moderately high,14,77.78927402241806,0
+female,2 - 5H,1,no,medium,18,69.27038005572209,1
+female,2 - 5H,0,no,medium,2,71.8180947996186,1
+female,2 - 5H,0,no,very high,2,90.06956956060137,0
+male,2 - 5H,0,no,very low,0,77.43174150962763,0
+male,less than 2H,2,yes,moderately low,0,49.307266813901336,1
+female,more than 10H,0,no,moderately low,0,94.77590323778564,0
+female,2 - 5H,0,no,very low,4,72.19751562529017,0
+female,less than 2H,0,no,medium,2,81.62826331917488,0
+female,5 - 10H,1,no,moderately low,12,80.69517011205889,1
+male,less than 2H,0,no,very low,6,94.9621471034736,1
+female,less than 2H,0,yes,very low,20,77.58806614310507,0
+male,2 - 5H,0,no,medium,4,88.10082568355384,1
+female,2 - 5H,0,no,very low,2,90.17913636677623,1
+male,2 - 5H,0,no,medium,2,78.37099843887233,0
+female,2 - 5H,1,yes,very low,16,65.5927933007964,0
+female,2 - 5H,0,yes,very low,12,67.79051951852037,0
+male,less than 2H,0,yes,moderately low,2,73.3317163085119,1
+male,2 - 5H,0,yes,very low,4,73.90120480929207,1
+male,less than 2H,0,no,very high,8,70.14223776263951,1
+female,less than 2H,0,yes,moderately low,7,61.10785412237542,1
+female,2 - 5H,0,no,very low,10,61.80228351278361,0
+male,less than 2H,0,yes,moderately low,5,91.5586330392713,0
+male,5 - 10H,0,yes,very low,0,92.38811907753676,1
+male,2 - 5H,0,no,very low,2,69.66181080834552,1
+male,2 - 5H,0,no,moderately high,0,49.96800869570393,1
+male,less than 2H,3,no,medium,3,63.186109315449606,0
+male,2 - 5H,0,no,very high,4,69.37332937933573,1
+male,less than 2H,3,no,very high,0,70.77419133151545,0
+male,2 - 5H,1,no,medium,2,76.14405589557695,1
+female,2 - 5H,0,no,very low,2,73.38582376431803,0
+female,less than 2H,0,no,moderately low,4,83.43162430528959,0
+male,less than 2H,3,yes,very high,0,49.839025609605294,0
+male,more than 10H,0,no,very low,0,69.58037016656233,1
+female,2 - 5H,0,yes,medium,21,95.4473356555386,1
+female,2 - 5H,2,no,medium,15,68.79653851491996,0
+male,2 - 5H,0,no,moderately high,4,69.94516474063008,0
+male,less than 2H,0,yes,moderately low,4,70.028257085181,0
+male,less than 2H,0,yes,moderately high,8,76.66089558356481,1
+female,more than 10H,0,no,very low,7,92.38247668382472,0
+female,less than 2H,1,no,medium,24,95.114430381458,1
+male,2 - 5H,0,no,moderately high,0,77.45033036677604,1
+female,5 - 10H,0,yes,medium,0,66.22968187749174,1
+male,less than 2H,0,no,very low,4,81.30953070580519,1
+female,2 - 5H,1,no,moderately low,14,66.60639662148216,1
+female,5 - 10H,0,no,medium,7,67.55117342902146,1
+female,2 - 5H,0,yes,moderately low,0,51.116696284746425,1
+male,less than 2H,3,yes,very high,16,65.47769888972608,0
+female,2 - 5H,3,no,very low,2,68.85818140077768,1
+female,2 - 5H,0,no,moderately low,12,60.7715652237823,1
+female,2 - 5H,0,no,very low,0,69.00439662889835,1
+female,2 - 5H,0,no,very low,0,65.59136764192986,0
+male,2 - 5H,0,no,moderately low,10,88.18467734143611,1
+female,2 - 5H,0,no,moderately low,8,72.43763199316207,1
+female,2 - 5H,0,yes,very low,8,70.28319609400388,1
+male,5 - 10H,0,no,very low,2,95.64247536489954,0
+female,less than 2H,1,yes,moderately low,0,49.68226450329283,1
+male,less than 2H,0,no,very high,14,60.74119887377367,1
+female,more than 10H,0,no,very low,1,75.8000102174046,0
+female,5 - 10H,0,no,very low,0,95.6592428361132,1
+female,2 - 5H,0,no,very low,0,84.05084606346179,0
+female,2 - 5H,1,yes,very low,15,65.32254324671112,1
+female,2 - 5H,0,yes,very low,2,69.73775819246221,0
+male,less than 2H,0,yes,medium,5,63.585701140888006,0
+male,less than 2H,0,no,medium,5,69.1902084209996,0
+male,2 - 5H,0,yes,very low,0,90.19711795598154,0
+female,5 - 10H,0,no,moderately low,6,83.46210585648213,0
+male,less than 2H,0,no,moderately high,0,70.51315031650807,0
+male,2 - 5H,0,no,very low,12,75.64323201949188,0
+male,2 - 5H,0,no,very low,2,65.56597117925095,1
+male,2 - 5H,0,yes,moderately low,2,84.50229574102293,1
+female,less than 2H,0,no,very low,0,86.07919755229675,1
+male,2 - 5H,0,no,very low,2,67.35504131114628,0
+male,2 - 5H,0,yes,medium,4,73.56893949880201,1
+female,2 - 5H,0,yes,moderately low,10,65.02777247046329,0
+male,less than 2H,1,no,moderately high,0,66.11003790593604,0
+male,2 - 5H,3,no,medium,8,65.8242363287882,1
+female,5 - 10H,1,no,very low,0,68.1573714590413,0
+female,less than 2H,0,no,moderately high,6,81.44417209911973,1
+female,2 - 5H,0,yes,very low,0,68.23202162280795,1
+female,2 - 5H,0,no,moderately low,0,67.50018119981668,1
+female,5 - 10H,0,no,moderately low,2,70.12910374194938,1
+female,2 - 5H,0,no,moderately low,4,60.99362707248076,0
+female,2 - 5H,0,yes,very low,0,66.38847589726375,0
+female,less than 2H,0,no,moderately high,6,69.01615022028678,0
+male,less than 2H,1,no,moderately high,6,67.77211237260087,1
+female,2 - 5H,0,no,medium,2,80.19850239013779,1
+female,2 - 5H,0,yes,moderately high,0,78.9333277068731,1
+female,less than 2H,0,yes,moderately low,0,70.96142886296283,1
+male,2 - 5H,0,yes,very low,0,50.22361302897107,0
+male,2 - 5H,1,no,moderately high,13,65.33017283093876,0
+male,less than 2H,3,no,very low,2,70.81073128757069,0
+male,less than 2H,0,yes,moderately high,10,66.9993064801704,0
+female,2 - 5H,0,no,very low,4,67.3980987538796,1
+female,5 - 10H,0,yes,moderately low,10,76.19821909334082,1
+female,5 - 10H,0,yes,very low,0,49.05317395439974,0
+female,more than 10H,0,no,very low,0,83.87344912466622,0
+female,2 - 5H,0,no,moderately low,2,62.710742503049616,1
+female,less than 2H,0,no,medium,14,61.43632537582085,1
+female,2 - 5H,0,no,moderately high,4,69.83329923005358,0
+male,more than 10H,0,no,very low,6,82.73056165925183,0
+female,2 - 5H,0,no,very low,0,49.691232926093505,1
+male,2 - 5H,0,yes,medium,11,87.14475413343004,1
+male,5 - 10H,0,no,moderately low,3,73.59483066932081,0
+male,2 - 5H,2,no,very high,11,66.98289650873798,0
+female,2 - 5H,1,no,very low,8,77.36147499551242,1
+female,more than 10H,0,yes,very low,0,49.724837724525095,0
+male,less than 2H,1,yes,very high,6,81.5676586369141,1
+male,less than 2H,0,no,moderately high,4,86.779481408544,1
+female,2 - 5H,0,no,very low,6,61.607262568023394,1
+male,less than 2H,0,no,medium,0,65.4778188430778,1
+female,less than 2H,0,no,very low,8,80.29490279295024,0
+female,5 - 10H,0,no,very low,0,89.38526338134997,1
+male,less than 2H,0,no,very low,0,72.57447133849682,1
+female,2 - 5H,0,no,medium,0,48.6667027930024,1
+male,2 - 5H,1,no,moderately low,0,48.56605558090447,0
+female,2 - 5H,0,yes,medium,0,70.43986256584934,1
+female,less than 2H,0,no,medium,0,75.3476112045672,1
+female,5 - 10H,0,yes,very low,2,87.60353875795084,1
+female,2 - 5H,3,no,moderately low,5,63.889999605380424,0
+male,less than 2H,0,no,moderately low,0,77.01966362358732,0
+male,less than 2H,2,no,moderately high,0,49.33335691039905,1
+male,less than 2H,0,no,very high,8,93.99312681544558,1
+female,5 - 10H,2,yes,very low,14,80.66595502558924,1
+male,less than 2H,0,no,moderately high,18,81.91268877124273,1
+female,5 - 10H,0,no,very low,0,80.91830969455812,0
+male,2 - 5H,0,no,very low,0,98.01519879152364,1
+male,5 - 10H,0,no,very low,1,77.59945823925338,0
+female,5 - 10H,0,no,very low,4,77.03501897550143,1
+female,2 - 5H,0,yes,moderately low,2,80.61445038798233,0
+male,less than 2H,0,no,medium,8,80.26153088328336,0
+male,2 - 5H,1,no,very high,0,50.173969394497426,0
+female,2 - 5H,1,yes,very low,12,82.50296138602059,1
+male,2 - 5H,0,no,moderately high,4,83.85470271198432,1
+male,5 - 10H,0,no,very low,2,94.0330916068376,0
+female,less than 2H,0,no,moderately high,16,73.67829026678324,0
+male,less than 2H,1,no,moderately high,19,68.53620730152782,1
+male,2 - 5H,0,no,medium,6,70.45759327674742,0
+male,less than 2H,0,no,moderately low,8,68.76673094093103,0
+female,5 - 10H,0,yes,very low,7,84.55692969532204,1
+female,5 - 10H,0,no,very low,0,64.29543017907847,1
+female,2 - 5H,3,no,very low,0,50.67404797537619,0
+female,5 - 10H,0,no,moderately low,3,72.94186681371168,1
+male,2 - 5H,0,no,very low,0,86.62271480764318,1
+male,less than 2H,0,no,very low,0,85.91297124194683,1
+female,5 - 10H,0,no,very high,0,69.15267188076065,1
+male,less than 2H,3,no,moderately high,16,59.86330873416093,1
+male,less than 2H,0,no,moderately high,0,89.60718789908456,0
+female,2 - 5H,0,no,moderately low,4,74.39266228118127,0
+male,5 - 10H,0,yes,moderately low,9,91.02796730462248,1
+female,5 - 10H,0,yes,very low,8,73.66316345799751,0
+female,2 - 5H,0,no,moderately low,4,69.80501049200471,1
+male,more than 10H,0,yes,very high,4,78.07540403939873,0
+male,2 - 5H,1,no,moderately low,3,75.08634167280375,0
+male,less than 2H,0,no,moderately low,2,72.7568943617728,0
+female,2 - 5H,0,yes,medium,56,66.10771207704764,1
+male,less than 2H,1,no,moderately high,0,47.5203263086648,1
+male,2 - 5H,0,no,moderately high,4,67.42415958491647,1
+female,2 - 5H,0,no,very low,0,90.01871770393703,0
+female,2 - 5H,0,yes,very low,0,87.34175447410416,1
+female,2 - 5H,0,yes,very low,2,71.77730305731852,1
+female,less than 2H,2,yes,very low,0,50.15135143052828,0
+female,2 - 5H,0,no,very low,2,93.13705770833953,0
+female,2 - 5H,0,no,moderately low,14,77.58007195340113,0
+male,less than 2H,0,no,very low,2,88.18886969971314,0
+female,2 - 5H,0,no,very low,4,69.70976347100735,0
+male,less than 2H,0,no,moderately high,0,77.96587495647636,1
+female,2 - 5H,0,yes,very low,0,89.40233892954676,0
+male,less than 2H,0,yes,medium,2,78.80905913322886,1
+female,2 - 5H,0,yes,very low,8,62.559777255458485,1
+male,less than 2H,0,yes,very low,0,49.74214119865886,1
+female,more than 10H,0,yes,medium,0,72.40572088909512,0
+male,2 - 5H,0,no,very low,4,73.82225062977636,1
+male,2 - 5H,0,no,very low,0,96.59393344181647,0
+female,2 - 5H,0,yes,medium,6,77.00483741507938,1
+male,less than 2H,0,no,very low,0,88.6480864238651,0
+male,2 - 5H,1,no,moderately high,20,65.78896769724183,0
+male,5 - 10H,0,no,very low,8,85.16858567805785,0
+female,5 - 10H,0,no,very low,4,70.24297979698363,0
+male,more than 10H,0,no,very low,4,100.68642727656056,0
+male,2 - 5H,1,yes,medium,0,76.94211807918386,0
+female,2 - 5H,0,no,medium,2,64.37234904352952,1
+female,2 - 5H,0,yes,very low,14,74.58325569467615,0
+male,less than 2H,0,no,moderately low,0,77.25425748277262,1
+male,less than 2H,0,no,very low,10,98.41298044692188,0
+male,less than 2H,0,no,moderately high,22,67.96505778592093,0
+female,5 - 10H,1,yes,very low,0,49.23877556624963,0
+male,2 - 5H,0,yes,very high,14,69.61915527964004,0
+male,2 - 5H,0,no,very low,0,75.10285324142401,1
+female,2 - 5H,0,no,very low,0,50.2855301196976,1
+female,2 - 5H,1,yes,moderately low,0,49.93353480821285,0
+male,2 - 5H,0,no,medium,6,71.8716429311028,0
+male,more than 10H,0,no,very low,0,87.19787602594239,0
+female,5 - 10H,0,no,moderately low,5,98.43435757243978,1
+male,5 - 10H,0,yes,medium,0,67.07066568454599,1
+female,2 - 5H,0,yes,medium,6,65.72252334079049,1
+female,5 - 10H,1,no,moderately low,0,51.35448625165044,0
+female,more than 10H,0,no,very low,6,79.6501316627683,1
+female,5 - 10H,0,yes,very low,0,50.41188521552746,0
+male,2 - 5H,0,yes,medium,14,69.05157555920536,0
+male,less than 2H,0,no,moderately low,6,81.2680037975482,0
+male,2 - 5H,0,no,moderately high,13,92.58337692988404,0
+female,5 - 10H,0,no,moderately high,2,69.39868464054669,0
+male,5 - 10H,0,yes,very low,0,89.70148517362644,1
+female,2 - 5H,0,no,medium,10,88.21928709717454,1
+female,2 - 5H,0,no,medium,0,91.46350552016642,1
+male,2 - 5H,0,no,very low,2,84.18376404722395,0
+male,2 - 5H,0,no,moderately low,2,72.42758247590075,0
+female,5 - 10H,1,yes,medium,4,74.9636493072055,1
+male,less than 2H,0,no,very high,3,87.450979181034,1
+male,2 - 5H,0,no,very high,0,81.30669345944503,0
+female,5 - 10H,0,yes,very low,6,63.71907283002757,1
+male,less than 2H,1,no,medium,4,65.8759593979494,0
+male,2 - 5H,0,no,very high,12,66.26599044230841,0
+male,2 - 5H,0,yes,moderately low,0,88.47682289989402,1
+female,less than 2H,0,yes,very high,6,73.76417239433292,0
+male,2 - 5H,0,no,very low,0,93.08341561729972,0
+male,2 - 5H,1,yes,moderately high,4,75.97252491984862,0
+male,less than 2H,1,no,medium,14,61.18796870625841,1
+female,2 - 5H,0,yes,very low,10,80.9617527486399,0
+female,2 - 5H,0,no,very low,0,68.89650688739539,1
+male,2 - 5H,0,no,medium,2,90.56482638164756,0
+male,less than 2H,1,yes,medium,7,65.85597571519546,1
+male,2 - 5H,0,yes,medium,12,72.39938417345928,1
+male,less than 2H,0,no,very low,4,83.13651865356441,1
+male,less than 2H,0,no,moderately low,0,69.94638032921866,1
+male,less than 2H,0,no,moderately low,2,84.98118457789934,0
+female,5 - 10H,0,yes,medium,0,87.1888359280762,0
+female,2 - 5H,2,yes,medium,6,66.93653056882393,0
+male,2 - 5H,0,no,very low,2,95.1256615652293,1
+male,less than 2H,0,no,very low,0,50.1469178448563,0
+female,2 - 5H,0,no,moderately low,2,87.78916443527548,0
+female,5 - 10H,0,no,moderately low,0,86.77357734508578,1
+female,2 - 5H,0,no,very low,2,80.52525876014148,0
+male,2 - 5H,0,no,medium,10,66.38946500437791,0
+male,more than 10H,0,no,very low,0,51.49266010184741,1
+male,5 - 10H,0,yes,very low,7,86.74190306971403,0
+male,2 - 5H,0,no,moderately low,2,89.83292105081918,1
+female,more than 10H,0,no,moderately low,4,60.87706460136601,1
+female,2 - 5H,0,yes,moderately low,0,87.21343247530923,1
+male,2 - 5H,0,no,moderately low,2,83.31599249836106,0
+female,5 - 10H,0,yes,very low,4,91.3180786333287,0
+male,2 - 5H,1,yes,very low,20,79.05885854370112,0
+female,2 - 5H,0,no,very low,4,61.23815857865506,0
+female,2 - 5H,0,no,very low,6,62.23466897907084,1
+male,less than 2H,3,no,moderately low,0,50.290287959558185,0
+male,less than 2H,0,no,very low,0,92.3460428384991,0
+female,5 - 10H,0,no,medium,1,87.1829816164183,0
+male,2 - 5H,0,yes,very low,8,68.5469527390015,0
+female,2 - 5H,0,no,very low,2,72.49684187513452,1
+female,more than 10H,0,no,moderately low,10,67.81798104380397,1
+female,5 - 10H,0,no,very low,0,84.06309330795347,0
+female,more than 10H,0,no,very low,8,65.3062323492235,1
+female,more than 10H,0,no,very low,6,95.43695258361308,0
+male,2 - 5H,0,no,very low,4,74.2218971824171,0
+female,5 - 10H,0,no,very low,2,66.99586891891066,0
+male,2 - 5H,0,yes,very high,16,74.33196311797546,1
+female,less than 2H,0,no,moderately low,6,83.74767929113561,0
+male,5 - 10H,0,yes,moderately low,0,80.37532428665394,0
+male,2 - 5H,0,no,moderately high,0,77.45002006008009,0
+male,2 - 5H,0,yes,very high,13,81.17308767538019,1
+female,2 - 5H,0,yes,moderately low,23,81.64467233979565,0
+male,2 - 5H,0,no,very low,2,66.03048889658918,0
+male,less than 2H,1,no,very high,10,80.76758829025772,1
+male,more than 10H,0,no,moderately high,2,65.44585082313064,0
+male,2 - 5H,0,yes,moderately high,11,74.61547795211722,0
+male,5 - 10H,0,no,moderately low,4,73.33968198188684,0
+male,2 - 5H,0,no,very low,9,87.237477537754,1
+female,2 - 5H,2,yes,moderately high,22,58.026871688571454,1
+female,2 - 5H,0,no,moderately low,0,75.82582735141995,0
+female,5 - 10H,0,yes,very low,9,66.44251022523099,0
+female,2 - 5H,0,no,medium,17,70.66744037387193,0
+female,5 - 10H,0,no,moderately low,4,72.25647579855027,1
+male,2 - 5H,1,yes,moderately low,0,77.35619909775373,0
+female,2 - 5H,0,yes,very low,0,84.55038925283088,1
+female,2 - 5H,3,no,medium,10,68.89818290103115,0
+male,more than 10H,0,yes,very high,6,82.68792919028247,1
+male,2 - 5H,1,no,moderately high,15,65.92260000153212,0
+female,2 - 5H,0,no,medium,6,71.4912734668402,0
+male,2 - 5H,1,yes,medium,8,60.36470733379776,0
+male,2 - 5H,0,no,very low,0,88.06731433084632,1
+female,2 - 5H,2,yes,moderately high,2,61.37653082687352,1
